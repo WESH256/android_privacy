@@ -1,0 +1,19 @@
+# Do Not Use
+Notes : Google Keep
+
++fast syncing
++well integrated into Android and Google Ecosystem
+
+-deep-dive into Google Ecosystem which is not wished for privacy
+-Closed Source
+-Notes are stored unencrypted on Google servers (potential data harvesting)
+
+# Do Use
+Notes : Notesnook, JRNL, Logseq
+
+Option Notesnook : End-to-End Encryption (E2EE) by default. Zero-knowledge architecture, meaning even the developers cannot read your notes. Open Source, clean UI, and acts as a direct, privacy-respecting replacement for Google Keep or Evernote.
+
+Option JRNL : A command-line journal application that lets you easily create, search, and view your journal entries. It stores everything in a simple, human-readable plain text file (like Markdown) locally, giving you absolute ownership over your personal data without needing any external database.Encryption possible.Instad of a list of your entries, you have ONE
+journal.jrnl file that just keepsp growing. Extremly minimalism.
+
+Option Logseq : A privacy-first, open-source knowledge management and collaboration platform. It works on top of local Markdown files (no cloud required by default), making it incredible for building a second brain, journaling, and tracking project progress safely.
