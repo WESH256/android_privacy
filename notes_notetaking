@@ -9,11 +9,10 @@ Notes : Google Keep
 -Notes are stored unencrypted on Google servers (potential data harvesting)
 
 # Do Use
-Notes : Notesnook, JRNL, Logseq
+Notes : Notesnook, CrystalPad, CipherNotes
 
-Option Notesnook : End-to-End Encryption (E2EE) by default. Zero-knowledge architecture, meaning even the developers cannot read your notes. Open Source, clean UI, and acts as a direct, privacy-respecting replacement for Google Keep or Evernote.
+Option Notesnook : End-to-End Encryption (E2EE) by default. Zero-knowledge architecture, meaning even the developers cannot read your notes. Open Source, clean UI, and acts as a direct, privacy-respecting replacement for Google Keep or Evernote. Cross-device.
 
-Option JRNL : A command-line journal application that lets you easily create, search, and view your journal entries. It stores everything in a simple, human-readable plain text file (like Markdown) locally, giving you absolute ownership over your personal data without needing any external database.Encryption possible.Instad of a list of your entries, you have ONE
-journal.jrnl file that just keepsp growing. Extremly minimalism.
+Option CrystalPad : A minimalism Note Taking App with OLED option, Open Source. Add Notes easily.
 
-Option Logseq : A privacy-first, open-source knowledge management and collaboration platform. It works on top of local Markdown files (no cloud required by default), making it incredible for building a second brain, journaling, and tracking project progress safely.
+Option CipherNotes : A privacy-first, open-source, E2E-Encryption Notes App. You can add Checklistst and set secret Notes with a Password.
