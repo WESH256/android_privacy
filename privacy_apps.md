@@ -1,6 +1,6 @@
 Apps are split into 11 categories :
 
-- Mail & Alias, Burner Mail
+- Mail 
 - Browsers
 - Search Engines
 - VPN
