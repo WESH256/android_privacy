@@ -13,5 +13,5 @@ Version :
 
 ## Reporting a Vulnerability
 
-
+PM me on GITHUB or @datboivzq@gmail.com
 
