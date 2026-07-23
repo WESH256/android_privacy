@@ -12,8 +12,14 @@
 # Do Use
 Browser : Brave,DuckDuckGo,Cromite
 
-Option Brave : Chromium Based, Built-in Ad & Tracking Blocker
-Option DuckDuckGo : Privacy First, Bult-in Tracker Scanner & Fire Button (deletes every Tab)
-Option Cromite : My personal favorite. Built with Chromium, enhanced Privacy settings with integrated AdBlock. Replaces the "Bromite" project.
+Option Brave :
+
+Chromium Based, Built-in Ad & Tracking Blocker
+Option DuckDuckGo :
+
+Privacy First, Bult-in Tracker Scanner & Fire Button (deletes every Tab)
+Option Cromite : 
+
+My personal favorite. Built with Chromium, enhanced Privacy settings with integrated AdBlock. Replaces the "Bromite" project.
 
 
